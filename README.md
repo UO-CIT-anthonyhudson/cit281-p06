@@ -1,11 +1,8 @@
-## CIT 281 Project 01
+## CIT 281 Project 06
 
-In this project, we had to:
-- Use the command line interface (CLI) of your operating system to create a number of folders
-- List the folders in a tree-like structure
-- Use the ping command, and practice using the break keyboard sequence
-- Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
+In this project, we had to create three classes. First class is the Shape class that will serve as a base class for the other two classes. Second class is the Rectangle class that will inherit from Shape class. Third class is the Triangle class that also will inherit from the Shape class.
 
-Throughout the project, I refined my skills with the CLI commands, as well as got practice with VSCode and executing non-web server Node.js JS code.
+
+Throughout the project, I got a ton of practice with classes. The entire project was centered around making classes and functions, then using those same classes and functions in the next class. This was my favorite project of the year. 
 
 Click "View on GitHub" button to see project code. 
